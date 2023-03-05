@@ -4,8 +4,8 @@ Deploy a Static Website on AWS with Docker, Amazon ECR, and Amazon ECS
 This is the Repo to storing Dockerfiles
 
 What you'll get:
-  Lifetime access to this course
-  Access to all the resources needed to complete the project
+  Lifetime access to this course, 
+  Access to all the resources needed to complete the project, 
   AWS reference architecture
   
   Deploy a Static Website On AWS:
